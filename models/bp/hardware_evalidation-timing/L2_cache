@@ -1,0 +1,4 @@
+line size = 128
+number of lines = 16384
+associativity = 8
+replacement policy = LRU

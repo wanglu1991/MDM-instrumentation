@@ -1,0 +1,1 @@
+LD_PRELOAD=/home/lu/nvbit_release/tools/MDM_mem-trace/MDM_mem-trace.so ./backprop 65536

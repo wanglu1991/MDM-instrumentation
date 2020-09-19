@@ -1,0 +1,1 @@
+LD_PRELOAD=/home/lu/nvbit_release/tools/MDM-inst-trace/MDM-inst-trace.so ./backprop 65536
