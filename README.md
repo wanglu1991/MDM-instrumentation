@@ -13,7 +13,7 @@ In particular, the scrips to run the MDM model are in hardware evalidation direc
 
 
 Generate_L2_access.py is used to run the cache simulation and 
-collect miss information for L1/L2.
+collect miss information for L1/L2. (You could develope this script to investigate different CTA scheduling policies)
 L1_cache/ L2_cache should be configured with your target platforms.
 You can also develop your own cache-simulator but make sure the format of the memory traces, cache-simulator and the scripts are consistent.
 
